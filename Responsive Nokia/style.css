@@ -1,0 +1,214 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+body{
+    font-family: NokiaPureHeadline,Arial,Helvetica,sans-serif;
+}
+
+.navbar-expand-lg .navbar-collapse {
+    flex-direction: row-reverse;
+}
+.navbar-expand-lg{
+    height: 15vh;
+}
+.navbar-expand-lg{
+    background-color: #fff;
+}
+.btn-outline-success{
+    background-color: transparent;
+    border: #fff;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 3.3rem;
+    padding-left: 0.9rem;
+}
+.sec1{
+    
+    padding: 0%;
+    margin: 0%;
+    
+}
+.row-container{
+    
+    height: 83vh;
+    width: 100%;
+    background-color: white;    
+    align-items: center;
+}
+.col-12{
+    position: relative;
+    padding: 0%;
+}
+.row-container{
+      position: relative;
+      width: 100%;
+
+}
+.text{
+    color: white;
+    position: absolute;
+    top: 30%;
+    left: 15%;
+    overflow: hidden;
+    
+}
+.button-text{
+    cursor: pointer;
+    width: 115px;
+    height: 43px;
+    white-space: nowrap;
+    overflow: hidden;
+    margin-top: 5%;
+    border-radius: 6px;
+    background-color: 0065ed;
+    color: #fff;
+    border: none;
+    
+}
+
+.line1{
+    font-weight: auto;
+    font-size: 5em;
+    font-weight: bold;
+}
+.col-11{
+    padding: 0%;
+    margin-top: 7%;
+    margin-left: 0%;
+    height: 100%;
+    width: 100%;
+    background-color: transparent;
+}
+.cont2{
+    width: 80%;
+    height: 550px;
+    align-items: center;
+}
+.cont2-h1{
+    font-size: 4pc;
+    font-weight: bold;
+}
+.img{
+    filter: brightness(.6);
+    color: inherit;
+}
+.line2{
+    margin-top: 7%;
+}
+.col-6 {
+    width: 100%;
+    background-color: black;
+}
+.one{
+    margin-top: 10%;
+}
+.card-title{
+    color: black !important;
+}
+.card1{
+    background-color: white ;
+    border: none;
+}
+
+.card2{
+    background-color: #fff;
+    border: none;
+}
+
+.card-img1{
+    padding-top: 4%;
+    padding-bottom: 3%;
+    transition: all .5s;
+}
+.card-img1:hover{
+    transform: scale(1.1);
+}
+.card-img2{
+    padding-top: 4%;
+    padding-bottom: 3%;
+    transition: all .5s;
+}
+.card-img2:hover{
+    transform: scale(1.1);
+}
+
+
+
+.col-13{
+    position: relative;
+    padding: 0%;
+    margin-top: 3%;
+    margin-bottom: 4%;
+}
+.box1{
+    
+    background-color: #2965ED;
+    color: white;
+    position: absolute;
+    top: 42%;
+    left: 7%;
+    overflow: hidden;
+    width: 55%;
+    height: 58%;
+}
+.line3{
+    padding-left: 15%;
+    padding-top: 17%;
+}
+.button-text1{
+    cursor: pointer;
+    width: 115px;
+    height: 43px;
+    white-space: nowrap;
+    overflow: hidden;
+    margin-top: 5%;
+    border-radius: 2px;
+    background-color: white;
+    color: 065ed;
+    border: none;
+    margin-left: 15%; 
+    font-size: 16px;  
+}
+.sec4{
+    padding: 0%;
+    margin: 0%;
+}
+
+.pt-2{
+    margin-top: 50px;
+    margin-left: -402px;
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+.form-outline form-white mb-4{
+    margin-top: 0%;
+    margin-right: 0%;
+}
+.btn-outline-light{
+    margin-top: 37%;
+    margin-left: 185%;
+}
+.text-uppercase{
+    text-align: left;
+    font-size: 95%;
+}
+.list-unstyled{
+    text-align: left;
+}
+ul{
+    font-size: 85%;
+    line-height: 200%;
+}
+.p-4{
+    /*height: 80%;*/
+   
+}
+.bg-dark {
+    background-color: #001135 !important;
+}
+.header-sec1{
+    width: 100%;
+    height: 100px;
+}
